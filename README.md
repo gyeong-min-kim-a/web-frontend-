@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web-frontend-
 
 1. 개요
@@ -7,3 +8,6 @@
 - 역할
 	- 디자인 초안을 바탕으로 html, css 작업
 	- 이메일 연동 서비스
+=======
+# web-frontend-
+>>>>>>> master
