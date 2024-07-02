@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # web-frontend-
 
 1. 개요
@@ -10,4 +9,4 @@
 	- 이메일 연동 서비스
 =======
 # web-frontend-
->>>>>>> master
+
